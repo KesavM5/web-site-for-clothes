@@ -1,0 +1,120 @@
+*{
+	color:#141414;
+	background-color:#ebeae8;
+
+}
+header{
+	
+	
+}
+#h{
+	text-align:left;
+}
+nav ol{
+	   width:1290px;
+	   height:80px;
+	   background-color:#c9c9c7;
+	   border:3px solid black;
+       }
+nav ol li{
+	display:inline-block;
+	text-align:center;
+	
+	width:170px;
+	height:10px;
+	background-color:#c9c9c7;
+	padding:20px;
+	margin:15px 0px 0px 0px;
+}
+nav a{
+	text-decoration:none;
+	background-color:#c9c9c7;
+}
+a:hover
+{
+	color:#adacac;
+
+}
+img{
+	width:30px;
+	height:0px:
+}
+h1{
+	text-align:center;
+	font-family: cursive;
+	font-weight:bold;
+	font-size:35px;
+}
+h5{
+	text-align:center;
+	margin:0px 10px 10px 0px;
+}
+#c{
+	width:1000px;
+	height:450px;
+	border:2px solid white;
+    margin:0px 10px 10px 200px;
+	background-image:url(s6.jpg);background-size:100% 100%;
+	
+}
+#arl{
+	
+	width:1000px;
+	height:350px;
+	border:2px solid #ebeae8;
+    margin:0px 10px 0px 200px;
+	text-align:center;
+	line-height:25px;
+}
+
+#article2{
+								
+								display:inline-block;
+		                        width:150px;
+		                        height:140px;
+		                        border:2px solid #ebeae8 ;
+		                        margin:100px 0px 0px 200px;
+
+								
+							}
+							
+							
+							#article3{
+								
+								display:inline-block;
+		                        width:150px;
+		                        height:140px;
+		                        border:2px solid #ebeae8;
+		                        margin:0px 0px 0px 100px;
+								
+							}
+							
+							#article4{
+								
+								display:inline-block;
+		                        width:150px;
+		                        height:140px;
+		                        border:2px solid #ebeae8;
+		                        margin:0px 0px 0px 100px;
+								
+							}
+							
+							.u{
+								margin:0px 0px 0px 0px;
+							}
+							
+							#last{
+								text-align:center;
+	                            background-color: #141414;
+	                            font-size:15px;
+	                            border:8px solid  #e6dcdc;
+								color:#e6dcdc;
+							}
+							a{
+								text-decoration:none;
+							}
+							ins{
+								color:white;
+								background-color:#141414;
+							}
+							
